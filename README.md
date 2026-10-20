@@ -2,6 +2,18 @@
 
 Welcome to the Sales Saathi frontend repository! This project has been configured with Vite to provide a blazing-fast local development experience, complete with hot-module replacement, mock data modes, and production-ready build commands.
 
+## UI/UX Design & Wireframes
+
+Explore the design process for SalesSathi AI, from initial low-fidelity wireframes to high-fidelity interface designs.
+
+### Low-Fidelity Wireframe
+- [View Low-Fidelity Wireframe](https://lnkd.in/dQP9-q4F)
+
+### High-Fidelity Wireframes
+1. [View Project in Google Stitch](https://stitch.withgoogle.com/projects/18154910690886012187)
+2. [View Interactive Design Preview](https://stitch.withgoogle.com/preview/18154910690886012187?node-id=57b93bca53a447a7ab941ef2a62d65c9)
+
+
 ## Prerequisites
 - **Node.js** (v18 or higher recommended)
 - **NPM** (comes with Node.js)
