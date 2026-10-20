@@ -4,3 +4,25 @@ dist/
 .env.*
 !.env.example
 .DS_Store
+
+debug-data.json
+
+supabase/.temp/
+
+node_modules/
+
+# Local debugging and test scripts
+debug_meetings.js
+test-reminders.js
+test-reminders.ts
+test.cjs
+test.js
+test2.cjs
+test3.cjs
+test_signup.js
+
+# Local migration script
+run-migration.mjs
+
+# Local migration script
+run-migration.mjs
